@@ -1,0 +1,128 @@
+/* 搜索栏内的文字，颜色和字体的调整 */
+input::-webkit-input-placeholder {
+    /* placeholder颜色 */
+    color: #fdf6e3;
+    /* placeholder字体大小 */
+    /* font-size: 12px; */
+}
+/* 搜索栏的背景色设置 */
+#book-search-input {
+	padding: 6px;
+	background:0 0;
+	transition: top .5s ease;
+	background: #002b36;
+	border-bottom: 1px solid rgba(0,0,0,.07);
+	border-top: 1px solid rgba(0,0,0,.07);
+	margin-bottom: 10px;
+	margin-top: -1px;
+}
+#book-search-input input,#book-search-input input:focus,#book-search-input input:hover {
+	width: 100%;
+	background: #002b36;
+	border: 1px solid transparent;
+	box-shadow: none;
+	outline: 0;
+	line-height: 22px;
+	padding: 7px 7px;
+	color: inherit;
+}
+/* 目录栏的颜色设置 */
+.book.color-theme-2 .book-summary {
+  color: #93a1a1;
+  /* 背景色 */
+  background: #073642;
+  border-right: none;
+}
+.book.color-theme-2 .book-summary ul.summary li a,
+.book.color-theme-2 .book-summary ul.summary li span {
+  /* 未选中时字体颜色 */
+  color: #93a1a1;
+  background: transparent;
+  font-weight: 600;
+}
+.book.color-theme-2 .book-summary ul.summary li.divider {
+  /* 目录上下两条线的颜色 */
+  background: #002b36;
+  box-shadow: none;
+}
+.book.color-theme-2 .book-summary ul.summary li.active > a,
+.book.color-theme-2 .book-summary ul.summary li a:hover {
+  /* 选中时的文字颜色 */
+  color: #839496;
+  /* 选中时的背景颜色 */
+  background: #002b36;
+  font-weight: 600;
+}
+/* 内容栏的颜色设置 */
+.book.color-theme-2 .book-body {
+  color: #bdcadb;
+  /* 内容页整体背景 */
+  background: #002b36;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section {
+  /* 内容页，内容背景 */
+  background: #002b36;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h1,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h2,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h3,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h4,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h5,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h6 {
+  /* h1-h6标题文字颜色 */
+  color: #839496;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal pre,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal code {
+  color: #d33682;
+  /* code块和单独code的背景颜色 */
+  background: #073642;
+  border-color: #073642;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal blockquote {
+  /* 引用内容前面竖线的颜色 */
+  border-color: #2aa198;
+}
+.markdown-section blockquote {
+	margin: 0;
+	margin-bottom: .85em;
+	padding: 0 15px;
+  /* 引用内容文字颜色 */
+	color: #93a1a1;
+	border-left: 4px solid #e5e5e5;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal {
+  /* 非标题内容文字颜色 */
+  color: #839496;
+}
+.markdown-section em {
+  font-style: italic;
+  /* 斜体字颜色 */
+  color: #cb4b16;
+}
+.markdown-section b, .markdown-section strong {
+  font-weight: 700;
+  /* 加粗字颜色 */
+  color: #dc322f;
+}
+/* 内容栏中，表格的颜色设置 */
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table tr {
+  /* 表格内文字颜色 */
+  color: #93a1a1;
+  /* 表格，标题行和单行的背景色 */
+  background-color: #073642;
+  border-color: #3b3f54;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table tr:nth-child(2n) {
+  /* 表格，双行背景颜色 */
+  background-color: #073642;
+}
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table th,
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table td {
+  /* 表格，线框颜色 */
+  border-color: #93a1a1;
+}
+/* 内容栏，分割线的颜色设置 */
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal hr {
+  background-color: #073642;
+}
