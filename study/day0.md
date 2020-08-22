@@ -325,6 +325,8 @@ git pull origin master
 1. 安装Ubuntu系统
 2. 工具的注册、下载、安装及体验
 
+https://www.virtualbox.org/
+
 # Ubuntu配置
 
 1. 配置中文显示
