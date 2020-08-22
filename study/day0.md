@@ -324,3 +324,64 @@ git pull origin master
 
 1. 安装Ubuntu系统
 2. 工具的注册、下载、安装及体验
+
+# Ubuntu配置
+
+1. 配置中文显示
+2. 配置中文输入法
+3. 安装工具
+
+google chrome
+
+https://www.google.cn/chrome/
+
+git
+
+```
+sudo apt install git
+```
+
+vim
+
+```
+sudo apt install vim
+```
+
+pip
+
+```
+sudo apt install python3-pip
+```
+
+更换pip源
+
+```
+mkdir ~/.pip
+vim ~/.pip/pip.conf
+
+[global]
+timeout = 6000
+index-url = https://mirrors.aliyun.com/pypi/simple/
+trusted-host = mirrors.aliyun.com
+
+国内源列表:
+
+阿里云 https://mirrors.aliyun.com/pypi/simple/
+豆瓣 https://pypi.douban.com/simple
+清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+Python官方 https://pypi.python.org/simple/
+```
+
+pip安装jupyter
+
+```
+pip3 install --upgrade pip
+
+pip3 install jupyter notebook
+```
+
+运行notebook
+
+```
+jupyter notebook
+```
