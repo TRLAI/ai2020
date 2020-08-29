@@ -162,7 +162,7 @@
 2. Git（生产力工具）
 3. 编辑器：IDE（PyCharm）选学：Vim
 
-# 4. Linux系统
+# 4. Linux系统介绍
 
 ## 4.1 为什么Linux
 
@@ -190,7 +190,7 @@ PS：优秀的程序员用Google
 
 ### 4.2.3 省心：驱动、安装方便、友好Desktop
 
-## 4.3 直接安装
+## 4.3 直接安装--推荐
 
 优先推荐！
 
@@ -200,6 +200,8 @@ PS：优秀的程序员用Google
 
 ## 4.4 Windows
 
+https://www.virtualbox.org/
+
 Win10：虚拟机 或 Hyper-V
 
 Win10以下版本：虚拟机
@@ -208,7 +210,7 @@ Win10以下版本：虚拟机
 
 直接使用 或 虚拟机
 
-# 5. 工具
+# 5. 教学工具
 
 ## 5.1 Github
 
@@ -313,6 +315,20 @@ git pull origin master
 5. 推送提交信息到远程仓库，自己的分支（**经常**）
   1. 如果在多台机器进行操作，每次都需要先下拉（更新）自己分支的代码（**根据需要**）
 
+## 5.4 Anaconda
+
+环境及基础扩展的集成环境
+
+https://www.anaconda.com/products/individual
+
+```
+运行 Anaconda Powershell Prompt (anaconda3)
+
+切换到工作目录
+
+jupyter-notebook.exe
+```
+
 # 6. 程序员的“品质”
 
 1. “懒”--总想要找到更好的实现方式
@@ -322,12 +338,12 @@ git pull origin master
 
 # 作业
 
-1. 安装Ubuntu系统
-2. 工具的注册、下载、安装及体验
+1. 工具的注册、安装(GitHub\Slack)
+2. Git基础使用
+3. 安装Anaconda的集成环境
+4. 快速体验--Jupyter Notebook
 
-https://www.virtualbox.org/
-
-# Ubuntu配置
+# 选学：Ubuntu配置
 
 1. 配置中文显示
 2. 配置中文输入法
