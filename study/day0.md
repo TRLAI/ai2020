@@ -306,6 +306,12 @@ git pull origin master
 
 - git init // 在项目目录下，创建一个空的本地仓库
 
+- git 删除远程分支
+
+```
+git push origin --delete sunjiaqi
+```
+
 ### 5.3.2 使用Git的简单工作流
 
 1. clone仓库
