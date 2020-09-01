@@ -14,3 +14,14 @@
 [Git学习](https://git-scm.com/book/zh/v2)
 
 [Python3学习](https://www.runoob.com/python3/python3-tutorial.html)
+
+[Numpy官网](https://numpy.org/)
+
+[Matplotlib官网](https://matplotlib.org/)
+
+[Pandas官网](https://pandas.pydata.org/)
+
+[Seaborn官网](http://seaborn.pydata.org/)
+
+
+
