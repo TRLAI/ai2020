@@ -1,0 +1,69 @@
+a = ['1','2','3','4']
+ 
+b=[]
+for i in a:
+    print(i)
+    for j in [x for x  in a if x!=i]:
+        print(j)
+        for m in [x for x in a if x!=i and x!=j]:
+            print(m)
+            b.append(int(i+j+m))
+
+
+i = input()
+if i <= 10:
+   j = i*0.1
+elif i <= 20:
+   j = (i-10)*0.075+1
+elif i <= 40:
+   j = (i-20)*0.05+1.5+1
+elif i <= 60:
+   j = (i-40)*0.03+1+1.5+1
+elif i <= 100:
+   j = (i-60)*0.015+1.2+1+1.5+1
+else:
+   j = (i-100)*0.01+0.6+1.2+1+1.5+1
+
+
+|list_01 = []
+list = []
+for i in range(3):
+x = int(input())
+list.append(x)
+
+list2 = list1
+
+print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()))
+time.sleep(1)
+print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()))
+
+for num in range(100,999):
+   a = num/100
+   b = (num-a*100)/10
+   c = num%10
+   if num == a**3+b**3+c**3:
+      print(unm)
+
+tmpStr = input()
+alphaNum=0
+numbers=0
+spaceNum=0
+otherNum=0
+for i in tmpStr:
+    if i.isalpha():
+        alphaNum +=1
+    elif i.isnumeric():
+        numbers +=1
+    elif i.isspace():
+        spaceNum +=1
+    else:
+        otherNum +=1
+
+sum = 100
+t = 100
+for i in range(1,10):
+    t = t*0.5
+    sum = sum+t*2
+sum = sum-t*2
+print(sum)
+print(t)
