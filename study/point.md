@@ -21,3 +21,16 @@
 # 聚类算法对比
 
 ![Cluster](images\Cluster.png)
+
+# 降维
+
+1. 维度过多，上千维的数据中，当要运算出一个结果，需要大量的算力和时间。在有限的时间里，不一定能跑出一个结果。
+2. 上千个维度中，不是所有的维度，都有用。留下有用的维度。
+
+## 讲维度的视频
+
+https://youtu.be/gg85IH3vghA
+
+https://www.bilibili.com/video/BV1hs41147Ae
+
+https://www.bilibili.com/video/BV1Ja4y1t7zL
