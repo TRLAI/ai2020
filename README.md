@@ -20,6 +20,12 @@
 
 # 第五部分：Tensorflow实战
 
+学习要点：
+
+[传送门](study/point.md)
+
+[人工智能、机器学习、深度学习，三者关系](study/relation.md)
+
 学习资料：
 
 [Git学习](https://git-scm.com/book/zh/v2)

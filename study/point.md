@@ -34,3 +34,27 @@ https://youtu.be/gg85IH3vghA
 https://www.bilibili.com/video/BV1hs41147Ae
 
 https://www.bilibili.com/video/BV1Ja4y1t7zL
+
+# 机器学习相关算法小结
+
+1. 监督
+   1. 决策树（Decision Trees）
+   2. XGBoost
+   3. 朴素贝叶斯分类(Naive Bayesian classification)
+   4. 最小二乘法（Ordinary Least Squares Regression）
+   5. 逻辑回归(Logistic Regression)
+   6. 线性回归（Linear Regression）
+   7. 支持向量机（Support Vector Machine，SVM）
+   8. 集成算法（Ensemble methods）
+   9. 随机森林 (Random Forest)
+   10. 线性判别分析(Linear Discriminant Analysis)
+   11. Adaboost
+   12. CNN (Convolutional Neural Network)
+2. 无监督
+   1. 聚类算法（Clustering Algorithms）
+      1. 基于密度聚类(Mean Shift)
+      2. 基于密度聚类(DBSCAN)
+   2. 高斯混合模型(GMM)与EM
+   3. 主成分分析（Principal Component Analysis，PCA）
+   4. 奇异值分解（Singular Value Decomposition，SVD）
+   5. 独立成分分析（Independent Component Analysis，ICA）
