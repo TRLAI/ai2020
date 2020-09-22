@@ -163,3 +163,6 @@ _book/
 book.pdf
 book.epub
 book.mobi
+
+# PyCharm
+.idea
