@@ -10,11 +10,26 @@
 - Day3 数据分析处理库Pandas
 - Day4 可视化库Matplotlib
 - Day5 可视化库Seaborn
-- Day6 Python实现逻辑回归与梯度下降（第一个大作业）
+- Day6 Python实现逻辑回归与梯度下降（第一次大作业）
 
 # 第二部分：机器学习
 
+- 01_LogisticRegressive  逻辑回归
+- 02_DecisionTree  决策树
+- 03_EmsebleLearning 集成算法
+- 04_BayesianClassifier 贝叶斯
+- 05_Cluster 聚类
+- 06_LinearDiscriminantAnalysis LDA线性判别分析
+- 07_PrincipalComponentAnalysis  PCA主成分分析，第二次大作业
+
 # 第三部分：数据挖掘
+
+- 01-kaggle 数据科学之路
+- 02-Titanic 泰坦尼克数据挖掘
+- 03-UserProfile 用户画像
+- 04-Xgboost XGBoost及保险赔偿
+- 05-jd 京东用户购买意向预测
+- 06-HomeWork 房价预测，第三次大作业
 
 # 第四部分：深度学习与神经网络
 
