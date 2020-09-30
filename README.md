@@ -60,3 +60,5 @@
 [kaggle官网-获取数据](https://www.kaggle.com/)
 
 [TensorFlow中文站](https://tensorflow.google.cn/)
+
+[Wiki语料库](https://dumps.wikimedia.org/backup-index.html)
