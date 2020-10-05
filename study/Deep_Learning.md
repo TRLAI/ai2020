@@ -29,3 +29,20 @@
 4. two_layer_fc_net_start，最终进行训练和可视化展示
 5. 其他几个文件，定义了一些工具函数
 
+## NLP
+
+### 使用wiki数据得步骤
+
+1. 从https://dumps.wikimedia.org/backup-index.html，找到zhwiki，点击进入。
+2. 下载zhwiki-20201001-pages-articles.xml.bz2，或者，下载下面的分包文件。
+3. 使用process.py，进行转换，把xml文件转换成txt文件。
+4. 使用opencc，把繁体转换成简体
+5. 使用jieba，进行分词
+
+```
+# 使用process.py，目标文件为bz2文件，输出文件为text文件
+python process 目标文件 输出文件
+
+# 使用opencc，目标和输出文件都为text文件
+opencc -i 目标文件 -o 输出文件 -c t2s.json
+```
