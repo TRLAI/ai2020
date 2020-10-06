@@ -61,4 +61,9 @@
 
 [TensorFlow中文站](https://tensorflow.google.cn/)
 
+[TensorFlow官网](https://www.tensorflow.org/)
+
 [Wiki语料库](https://dumps.wikimedia.org/backup-index.html)
+
+[卷积神经网络详细介绍（英文）](https://cs231n.github.io/convolutional-networks/)
+
