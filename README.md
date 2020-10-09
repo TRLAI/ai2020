@@ -67,3 +67,4 @@
 
 [卷积神经网络详细介绍（英文）](https://cs231n.github.io/convolutional-networks/)
 
+[支持CUDA的显卡型号](https://developer.nvidia.com/cuda-gpus)
