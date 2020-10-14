@@ -33,6 +33,10 @@
 
 # 第四部分：深度学习与神经网络
 
+- 01-深度学习 CIFAR-10案例 数据集探索及代码示例
+- 02-深度学习 NLP 影评分析分类案例
+- 03-深度学习 卷积神经网络处理CIFAR-10案例
+
 # 第五部分：Tensorflow实战
 
 学习要点：
@@ -68,3 +72,5 @@
 [卷积神经网络详细介绍（英文）](https://cs231n.github.io/convolutional-networks/)
 
 [支持CUDA的显卡型号](https://developer.nvidia.com/cuda-gpus)
+
+[cifar数据集](https://www.cs.toronto.edu/~kriz/cifar.html)
