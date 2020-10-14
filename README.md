@@ -39,6 +39,15 @@
 
 # 第五部分：Tensorflow实战
 
+- 01-Tensorflow介绍
+- 02-Tensorflow搭建神经网络，气温预测实例；Mnist数据集分类任务实例；
+- 03-Tensorflow进行数据增强、迁移学习，猫狗图像识别实例
+- 04-Tensorflow数据增强，实例介绍
+- 05-Tensorflow的TFRecords介绍
+- 06-NLP-Word2Vec介绍
+- 07-Tensorflow实现Word2Vec实例
+- 08-Tensorflow使用RNN进行影评的文本分类任务实例
+
 学习要点：
 
 [传送门](study/point.md)
@@ -74,3 +83,5 @@
 [支持CUDA的显卡型号](https://developer.nvidia.com/cuda-gpus)
 
 [cifar数据集](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+[mnist数据集](http://yann.lecun.com/exdb/mnist/)
