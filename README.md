@@ -20,7 +20,7 @@
 - 04_BayesianClassifier 贝叶斯
 - 05_Cluster 聚类
 - 06_LinearDiscriminantAnalysis LDA线性判别分析
-- 07_PrincipalComponentAnalysis  PCA主成分分析，第二次大作业
+- 07_PrincipalComponentAnalysis  PCA主成分分析（第二次大作业）
 
 # 第三部分：数据挖掘
 
@@ -29,7 +29,7 @@
 - 03-UserProfile 用户画像
 - 04-Xgboost XGBoost及保险赔偿
 - 05-jd 京东用户购买意向预测
-- 06-HomeWork 房价预测，第三次大作业
+- 06-HomeWork 房价预测（第三次大作业）
 
 # 第四部分：深度学习与神经网络
 
@@ -41,7 +41,7 @@
 
 - 01-Tensorflow介绍
 - 02-Tensorflow搭建神经网络，气温预测实例；Mnist数据集分类任务实例；
-- 03-Tensorflow进行数据增强、迁移学习，猫狗图像识别实例
+- 03-Tensorflow进行数据增强、迁移学习，猫狗图像识别实例（第四次大作业）
 - 04-Tensorflow数据增强，实例介绍
 - 05-Tensorflow的TFRecords介绍
 - 06-NLP-Word2Vec介绍
