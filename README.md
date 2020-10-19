@@ -47,6 +47,9 @@
 - 06-NLP-Word2Vec介绍
 - 07-Tensorflow实现Word2Vec实例
 - 08-Tensorflow使用RNN进行影评的文本分类任务实例
+- 09-Tensorflow时间序列任务的实现
+- 10-Tensorflow实现DCGAN
+- 11-Tensorflow实现CycleGAN
 
 学习要点：
 
