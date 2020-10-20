@@ -6,4 +6,5 @@
     * [人工智能、机器学习、深度学习](study/relation.md)
     * [学习要点](study/point.md)
     * [深度学习](study/Deep_Learning.md)
+    * [作业](study/home_work.md)
 
