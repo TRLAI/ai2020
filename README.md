@@ -50,6 +50,7 @@
 - 09-Tensorflow时间序列任务的实现
 - 10-Tensorflow实现DCGAN
 - 11-Tensorflow实现CycleGAN
+- 12-Tensorflow实现深度残差网络（第五次大作业）
 
 学习要点：
 
