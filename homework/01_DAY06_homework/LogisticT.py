@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 
 # 读取txt文件
-path = 'C:/Users/dell/Desktop/AI2020/LogiReg_data.txt'
+path = 'data/LogiReg_data.txt'
 # 用Pandas读取,并转换成DataFrame结构，设置列名：第一次考试成绩，第二次考试成绩，是否被录取
 pdData = pd.read_csv(path, header=None, names=['Exam 1', 'Exam 2', 'Admitted'])
 print(pdData.head())
