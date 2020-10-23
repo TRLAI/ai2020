@@ -23,7 +23,7 @@ warnings.filterwarnings('ignore')
 sns.set()
 
 df_train = pd.read_csv('./data/train.csv')
-# print(df_train.columns)
+print(df_train.columns)
 
 # print(df_train['SalePrice'].describe())
 
